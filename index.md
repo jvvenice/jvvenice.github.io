@@ -5,7 +5,7 @@
 ![quote-vera nazarian](https://user-images.githubusercontent.com/94154479/156693921-f1746c44-360e-40c9-8ad5-f2cdd060ac22.jpg)
 ---
 
-# SHORT BACKGROUND OF WHAT IS MUSIC
+# SHORT BACKGROUND OF WHAT MUSIC IS
 In the course of history, music is the greatest creation of mankind. Creativity in the pure and undiluted form is the true definition of Music. Music is an important part of our life as it is a way of expressing our feelings as well as emotions.
 
 Some people consider music as a way to escape from the pain of life. It gives you relief and allows you to reduce the stress. Music is a powerful therapy that will make you calm down and in the moment of joy, it will make you cheerful.
