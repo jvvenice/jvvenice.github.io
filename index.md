@@ -43,7 +43,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - died February 11, 2012, Beverly Hills, California
 - American singer and actress who was one of the best-selling musical performers of the 1980s and ’90s.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wuGyHfnnZOM?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MARIAH CAREY
 
@@ -54,7 +54,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born March 27, 1969/70, Huntington, New York, U.S.
 - American pop singer, noted for her remarkable vocal range. She was one of the most successful female performers of the 1990s and remained popular into the early 21st century.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UEE8LA8KW8?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ARIANA GRANDE
 
@@ -65,7 +65,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born June 26, 1993, Boca Raton, Florida, U.S.
 - American pop singer and actress who burst onto the pop music scene in the early 2010s and became one of the genre’s most successful performers, known for her four-octave range.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3RfeSrrbxPI?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## TAYLOR SWIFT
 
@@ -76,7 +76,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born December 13, 1989, West Reading, Pennsylvania, U.S.
 - American pop and country music singer-songwriter whose tales of young heartache achieved widespread success in the early 21st century.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fmPSe6-fS4?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## SELENA GOMEZ
 
@@ -87,7 +87,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born July 22, 1992, Grand Prairie, Texas, U.S.
 - American actress and singer who won legions of young fans as the winsome star of the Disney television series Wizards of Waverly Place (2007–12) and as a pop vocalist.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akaRg5C1VO8?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## BILLIE EILISH
 
@@ -98,7 +98,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born December 18, 2001, Los Angeles, California, U.S.
 - American singer-songwriter who first gained recognition in 2015 for the song “Ocean Eyes” and became, in 2020, the youngest person ever to win a Grammy for album of the year.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VC17QJXu0nc?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## OLIVIA RODRIGO
 
@@ -109,7 +109,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born February 20, 2003, Murrieta California, U.S.
 - Olivia Isabel Rodrigo is an American singer-songwriter and actress. She gained recognition with her lead roles on the Disney television programmes Bizaardvark and High School Musical: The Musical: The Series.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RK1V6T5YNpI?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## SABRINA CARPENTER
 
@@ -120,13 +120,9 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born May 11, 1999, Lehigh Valley, Pennsylvania, U.S.
 - an American singer and actress. Carpenter made her acting debut with an appearance in the crime series Law & Order: Special Victims Unit and received recognition for her recurring role as a young Chloe Goodwin in The Goodwin Games.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cfTQ9hFZlPQ?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## DUA LIPA
-
-![dua lipa](https://user-images.githubusercontent.com/94154479/156713252-09644d65-2292-4072-bd25-381f1d7dd767.jpg)
-
-- 
+---
 
 **REFERENCES**
 - https://www.keepinspiring.me/music-quotes/
@@ -134,3 +130,16 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - https://blog.procollabs.com/role-music-plays-life/
 - https://www.britannica.com
 - https://www.wikipedia.com
+- https://youtu.be/cfTQ9hFZlPQ
+- https://youtu.be/RK1V6T5YNpI
+- https://youtu.be/VC17QJXu0nc
+- https://youtu.be/akaRg5C1VO8
+- https://youtu.be/2fmPSe6-fS4
+- https://youtu.be/3RfeSrrbxPI
+- https://youtu.be/8UEE8LA8KW8
+- https://youtu.be/wuGyHfnnZOM
+- https://youtu.be/kXqRn7o033M
+
+---
+**Venice V. Javier_9-GonzalezB**
+*there are many music that I can still include but it will take some time, thank you for your patience*
