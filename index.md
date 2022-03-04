@@ -31,7 +31,7 @@ Furthermore, it develops the mind and boosts your self confidence. Music plays a
 - born March 30, 1968, Charlemagne, Quebec, Canada
 - known for her vocal prowess and her passionate showmanship, who achieved international superstardom in the 1990s. Working primarily in the pop ballad tradition, she recorded numerous hit albums in both French and English and was the recipient of several prestigious awards.
 
-(youtube video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXqRn7o033M?start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## WHITNEY HOUSTON
 
